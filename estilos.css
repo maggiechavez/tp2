@@ -1,0 +1,69 @@
+.fondo1{
+background-color: black;
+}
+.fondo0{
+    background-color: white;
+}
+.color0{
+    color: white;
+}
+.color1{
+    color: black;  
+  }
+
+.fondo2{
+background-color: #a6ad14;
+}
+
+.color2{
+  color: #a6ad14;  
+}
+
+.fondo3{
+ background-color: #d23a34;
+}
+
+.color3{
+    color: #d23a34;  
+  }
+
+.fondo4{
+    background-color: #d3d35f;
+}
+
+.color4{
+    color: #d3d35f;  
+  }
+
+.bebas{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5em;
+}
+
+@media screen  and (min-width:992px) {
+   p{
+    font-size: 1.3em;
+   }
+   .bebas{
+    font-size: 2em;
+   }
+}
+
+@media screen  and (min-width:1200px) {
+    p{
+     font-size: 1.5em;
+    }
+ }
+
+ ul{
+    text-decoration: none;
+    list-style-type: none;
+ }
+
+ a{
+    text-decoration: none;
+ }
+
+ figure{
+    text-align: center;
+ }
